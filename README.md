@@ -13,7 +13,7 @@ Shell Finder is a tool designed to detect webshell or backdoor files on a websit
 
 1. Clone this repository:
     ``bash
-    git clone https://github.com/username/shellfinder.git
+    git clone https://github.com/X-3nCrypt/shellfinder.git
     cd shellfinder
     ```
 
