@@ -12,8 +12,8 @@ Shell Finder is a tool designed to detect webshell or backdoor files on a websit
 ## Installation
 
 1. Clone this repository:
-    ``bash
-    git clone https://github.com/X-3nCrypt/shellfinder.git
+    ```
+    https://github.com/X-3nCrypt/Shellfinder.git
     cd shellfinder
     ```
 
